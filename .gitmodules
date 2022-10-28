@@ -1,0 +1,4 @@
+[submodule "Inbrasol/localization_pe_contact"]
+	path = Inbrasol/localization_pe_contact
+	url = git@github.com:Inbrasol/localization_pe_contact.git
+	branch = 15.0
